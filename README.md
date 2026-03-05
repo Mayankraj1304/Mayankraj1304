@@ -1,7 +1,13 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey,%20there%20I'm%20Mayank%20Raj&fontAlign=50&fontAlignY=35&fontSize=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=38B2AC&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Mayank+Raj!+%F0%9F%91%8B;Full-Stack+Developer+%E2%9A%A1;AI%2FML+Enthusiast+%F0%9F%A4%96;Building+the+web+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%E2%9A%A1;AI%2FML+Enthusiast+%F0%9F%A4%96;Building+the+web+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -71,9 +77,34 @@
 
 ---
 
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayankraj1304&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
 <div align="center">
   <p><b>Profile Visitors</b></p>
   <a href="https://github.com/Mayankraj1304">
     <img src="https://komarev.com/ghpvc/?username=Mayankraj1304&color=38B2AC&style=for-the-badge&label=VIEWS" alt="Visitor Count">
   </a>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
