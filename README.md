@@ -60,14 +60,13 @@
 <div align="center">
   
   <a href="https://github.com/Mayankraj1304">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mayankraj1304&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38B2AC&icon_color=38B2AC" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mayankraj1304&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38B2AC&icon_color=38B2AC" alt="GitHub Stats" width="48%" /> 
   </a>
   <a href="https://github.com/Mayankraj1304">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mayankraj1304&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=38B2AC" alt="Top Languages" width="48%" />
   </a>
 
-  <br/>
-  <br/>
+ 
 
   <a href="https://github.com/Mayankraj1304">
   <img
