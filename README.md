@@ -70,8 +70,11 @@
   <br/>
 
   <a href="https://github.com/Mayankraj1304">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Mayankraj1304&theme=tokyonight&hide_border=true&background=0d1117&ring=38B2AC&fire=38B2AC&currStreakNum=white" alt="GitHub Streak" />
-  </a>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Mayankraj1304&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</a>
 
 </div>
 
