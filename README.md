@@ -59,25 +59,25 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  
-  <a href="https://github.com/Mayankraj1304">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mayankraj1304&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38B2AC&icon_color=38B2AC" alt="GitHub Stats" width="48%" /> 
-  </a>
-  <a href="https://github.com/Mayankraj1304">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mayankraj1304&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=38B2AC" alt="Top Languages" width="48%" />
-  </a>
+  <p>
+    <img
+      src="https://github-readme-stats-nine-omega.vercel.app/api?username=Mayankraj1304&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=60&v=3"
+      width="48%"
+      alt="Mayank's GitHub Stats"
+    />
+    <img
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mayankraj1304&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&v=4"
+      width="40%"
+      alt="Mayank's Most Used Languages"
+    />
+  </p>
 
- 
-
-  <a href="https://github.com/Mayankraj1304">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Mayankraj1304&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com/?user=Mayankraj1304&theme=tokyonight&hide_border=true&cache_seconds=60&v=3"
+    width="60%"
+    alt="Mayank's Contribution Streak"
   />
-</a>
-
 </div>
-
 ---
 
 # 📈 Activity Graph
@@ -96,3 +96,8 @@
     <img src="https://komarev.com/ghpvc/?username=Mayankraj1304&color=38B2AC&style=for-the-badge&label=VIEWS" alt="Visitor Count">
   </a>
 </div>
+
+
+
+
+<!-- Top Languages Layout -->
