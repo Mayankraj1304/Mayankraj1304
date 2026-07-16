@@ -56,49 +56,96 @@ Growth          Improving consistently through practice and feedback
 
 ---
 
-## Technology Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Programming Languages
+### 🌐 Frontend Development
 
 <img
-src="https://skillicons.dev/icons?i=js,ts,python,java,cpp"
-alt="JavaScript, TypeScript, Python, Java, and C++"
-loading="lazy"
+src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,vite"
+alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Sass, and Vite"
 />
 
-### Frontend Development
+<br /><br />
+
+`React Router` · `EJS`
+
+---
+
+### ⚙️ Backend & Databases
 
 <img
-src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"
-alt="HTML, CSS, React, Next.js, and Tailwind CSS"
-loading="lazy"
+src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,flask"
+alt="Node.js, Express.js, MongoDB, MySQL, and Flask"
 />
 
-### Backend Development
+<br /><br />
+
+`Express Validator` · `WebSockets` · `JWT Authentication` · `REST APIs`
+
+---
+
+### 🧠 AI, Machine Learning & GenAI
 
 <img
-src="https://skillicons.dev/icons?i=nodejs,express"
-alt="Node.js and Express.js"
-loading="lazy"
+src="https://skillicons.dev/icons?i=python,tensorflow,sklearn"
+alt="Python, TensorFlow, and Scikit-learn"
 />
 
-### Databases
+<br /><br />
 
 <img
-src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"
-alt="MongoDB, MySQL, and PostgreSQL"
-loading="lazy"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg"
+width="48"
+height="48"
+alt="Keras"
+/>
+   <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
+width="48"
+height="48"
+alt="NumPy"
+/>
+   <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+width="48"
+height="48"
+alt="Pandas"
+/>
+   <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"
+width="48"
+height="48"
+alt="Matplotlib"
 />
 
-### Tools and Platforms
+<br /><br />
+
+`Generative AI` · `Large Language Models` · `LangChain`
+`Prompt Engineering` · `Streamlit`
+
+---
+
+### 💻 Programming Languages
 
 <img
-src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman"
-alt="Git, GitHub, Docker, Linux, Visual Studio Code, and Postman"
-loading="lazy"
+src="https://skillicons.dev/icons?i=c,java,js,ts,python"
+alt="C, Java, JavaScript, TypeScript, and Python"
 />
+
+---
+
+### 🔧 Development Tools & Platforms
+
+<img
+src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,vscode"
+alt="Git, GitHub, Postman, Figma, Vercel, and Visual Studio Code"
+/>
+
+<br /><br />
+
+`Render` · `API Testing` · `Version Control` · `Deployment`
 
 </div>
 
