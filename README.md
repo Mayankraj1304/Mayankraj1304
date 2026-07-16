@@ -1,45 +1,7 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hey,%20there%20I'm%20Mayank%20Raj&fontAlign=50&fontAlignY=40&fontSize=35&color=0:0f2027,50:203a43,100:2c5364&fontColor=38B2AC&animation=fadeIn" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%E2%9A%A1;AI%2FML+Enthusiast+%F0%9F%A4%96;Building+the+web+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<p align="center">
-  <em>Computer Science undergrad at <b>Birla Institute of Technology, Mesra</b>.<br> Valuing clean architecture, performance, and writing code that future-me won’t complain about.</em>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/mayank-raj-0015213b1"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/@mayank_raj74609"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
-  <a href="https://instagram.com/_mayank__1304"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:mayank1312.raj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
----
-
-### 👨‍💻 A Little About Me
-
-- 💻 **Full-Stack Engineering**: I enjoy crafting clean frontends with **React & Tailwind** and engineering structured, scalable backends with **Node.js, Express & TypeScript**.
-- 🗄️ **Data Management**: Whether it’s **MongoDB, MySQL, or Oracle** — I make sure the data behaves.
-- 🤖 **GenAI & Deep Learning**: Deeply interested in building intelligent applications using **LLMs, LangChain, and advanced Prompt Engineering**.
-- 🔌 **Real-Time Web**: Implementing interactive features seamlessly using **WebSockets**.
-- 🌙 **Work Ethic**: Always learning. Always building. Occasionally refactoring at 2 AM.
-
----
-
 ### 🛠️ Tech Arsenal
 
 <div align="center">
-
+  
 #### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
 
@@ -54,50 +16,8 @@
 
 </div>
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <p>
-    <img
-      src="https://github-readme-stats-nine-omega.vercel.app/api?username=Mayankraj1304&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=60&v=3"
-      width="48%"
-      alt="Mayank's GitHub Stats"
-    />
-    <img
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mayankraj1304&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&v=4"
-      width="40%"
-      alt="Mayank's Most Used Languages"
-    />
-  </p>
-
-  <img
-    src="https://streak-stats.demolab.com/?user=Mayankraj1304&theme=tokyonight&hide_border=true&cache_seconds=60&v=3"
-    width="60%"
-    alt="Mayank's Contribution Streak"
-  />
-</div>
----
-
 # 📈 Activity Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayankraj1304&theme=tokyo-night&hide_border=true"/>
-
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayankraj1304&theme=tokyo-night&hide_border=true"/>
 </div>
-
----
-
-<div align="center">
-  <p><b>Profile Visitors</b></p>
-  <a href="https://github.com/Mayankraj1304">
-    <img src="https://komarev.com/ghpvc/?username=Mayankraj1304&color=38B2AC&style=for-the-badge&label=VIEWS" alt="Visitor Count">
-  </a>
-</div>
-
-
-
-
-<!-- Top Languages Layout -->
