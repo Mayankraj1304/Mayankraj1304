@@ -1,23 +1,275 @@
-### 🛠️ Tech Arsenal
-
 <div align="center">
-  
-#### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
 
-#### ⚙️ Backend & Database
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Express Validator](https://img.shields.io/badge/Express%20Validator-61DAFB?style=for-the-badge&logo=express&logoColor=black) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+# Hi, I'm Mayank Raj
 
-#### 🧠 AI, ML & GenAI
-![Generative AI](https://img.shields.io/badge/GenAI-Green?style=for-the-badge&logo=openai&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-Orange?style=for-the-badge&logo=huggingface&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23ffffff.svg?style=for-the-badge&logo=Flask&logoColor=black) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Blue?style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+### Software Developer · Problem Solver · Continuous Learner
 
-#### 🛠️ Languages & Tools
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
+<p>
+  I build practical software, explore modern technologies, and turn ideas into reliable applications.
+  I enjoy working across different parts of the development stack while continuously improving
+  my problem-solving, system-design, and software-engineering skills.
+</p>
+
+<a href="https://github.com/Mayankraj1304">
+  <img
+    src="https://komarev.com/ghpvc/?username=Mayankraj1304&label=Profile%20Views&color=38B2AC&style=flat-square"
+    alt="Mayank Raj's profile views"
+  />
+</a>
+
+<a href="https://github.com/Mayankraj1304?tab=followers">
+  <img
+    src="https://img.shields.io/github/followers/Mayankraj1304?label=Followers&style=flat-square&color=38B2AC"
+    alt="Mayank Raj's GitHub followers"
+  />
+</a>
 
 </div>
 
-# 📈 Activity Graph
+---
+
+## About Me
+
+I am a software developer with an interest in building useful, maintainable, and thoughtfully designed applications.
+
+My work involves experimenting with a mixed modern technology stack, understanding how different systems work together, and applying what I learn through personal projects.
+
+* Building and improving personal software projects
+* Exploring frontend, backend, databases, and development tools
+* Strengthening data structures and problem-solving skills
+* Learning better software architecture and development practices
+* Writing clean, readable, and maintainable code
+* Open to collaboration, technical discussions, and new ideas
+
+---
+
+## What I Focus On
+
+```text
+Development     Building reliable and practical applications
+Engineering     Writing maintainable and understandable code
+Learning        Exploring modern tools, frameworks, and concepts
+Problem Solving Breaking complex problems into manageable solutions
+Projects        Applying knowledge through hands-on development
+Growth          Improving consistently through practice and feedback
+```
+
+---
+
+## Technology Stack
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayankraj1304&theme=tokyo-night&hide_border=true"/>
+
+### Programming Languages
+
+<img
+src="https://skillicons.dev/icons?i=js,ts,python,java,cpp"
+alt="JavaScript, TypeScript, Python, Java, and C++"
+loading="lazy"
+/>
+
+### Frontend Development
+
+<img
+src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"
+alt="HTML, CSS, React, Next.js, and Tailwind CSS"
+loading="lazy"
+/>
+
+### Backend Development
+
+<img
+src="https://skillicons.dev/icons?i=nodejs,express"
+alt="Node.js and Express.js"
+loading="lazy"
+/>
+
+### Databases
+
+<img
+src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"
+alt="MongoDB, MySQL, and PostgreSQL"
+loading="lazy"
+/>
+
+### Tools and Platforms
+
+<img
+src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman"
+alt="Git, GitHub, Docker, Linux, Visual Studio Code, and Postman"
+loading="lazy"
+/>
+
+</div>
+
+---
+
+## Personal Projects
+
+I use personal projects to explore technologies, improve my development process, and solve practical problems.
+
+My repositories include experiments, learning projects, application prototypes, and implementations created while developing my software-engineering skills.
+
+<div align="center">
+
+<a href="https://github.com/Mayankraj1304?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Explore Mayank Raj's GitHub repositories"
+  />
+</a>
+
+</div>
+
+### What My Projects Represent
+
+* Practical implementation of concepts I am learning
+* Experience working with different parts of the technology stack
+* Continuous improvement in code structure and project organization
+* Experiments with frameworks, libraries, APIs, and databases
+* A growing record of my development journey
+
+---
+
+## Development Principles
+
+```text
+01. Understand the problem before choosing the technology.
+02. Prefer clear solutions over unnecessary complexity.
+03. Write code that can be understood and maintained.
+04. Treat documentation as part of the development process.
+05. Learn from feedback, mistakes, and real implementation challenges.
+06. Improve through consistency rather than shortcuts.
+```
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Mayankraj1304">
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mayankraj1304&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38B2AC&icon_color=38B2AC&text_color=c9d1d9"
+    alt="Mayank Raj's GitHub statistics"
+    width="49%"
+    loading="lazy"
+  />
+</a>
+
+<a href="https://github.com/Mayankraj1304">
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mayankraj1304&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38B2AC&text_color=c9d1d9"
+    alt="Mayank Raj's most used programming languages"
+    width="41%"
+    loading="lazy"
+  />
+</a>
+
+</div>
+
+> The language statistics show the languages detected in public repositories. They do not represent complete proficiency or professional experience.
+
+---
+
+## Contribution Streak
+
+<div align="center">
+
+<a href="https://github.com/Mayankraj1304">
+  <img
+    src="https://streak-stats.demolab.com/?user=Mayankraj1304&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC&sideLabels=C9D1D9&dates=8B949E"
+    alt="Mayank Raj's GitHub contribution streak"
+    width="65%"
+    loading="lazy"
+  />
+</a>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/Mayankraj1304">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mayankraj1304&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38B2AC&line=38B2AC&point=ffffff&area=true&area_color=38B2AC"
+    alt="Mayank Raj's GitHub contribution activity graph"
+    width="96%"
+    loading="lazy"
+  />
+</a>
+
+</div>
+
+---
+
+## Profile Summary
+
+<div align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayankraj1304&theme=tokyonight"
+alt="Mayank Raj's GitHub profile summary"
+width="96%"
+loading="lazy"
+/>
+
+<br />
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayankraj1304&theme=tokyonight"
+alt="Mayank Raj's repositories by programming language"
+width="47%"
+loading="lazy"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayankraj1304&theme=tokyonight"
+alt="Mayank Raj's most committed programming languages"
+width="47%"
+loading="lazy"
+/>
+
+</div>
+
+---
+
+## Developer Mindset
+
+> Good software is not only about making something work. It is also about making it understandable, maintainable, and useful.
+
+I believe meaningful progress comes from curiosity, consistent practice, honest evaluation, and the willingness to improve existing work.
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile.
+
+<p>
+  Feel free to explore my repositories and follow my development journey.
+</p>
+
+<a href="https://github.com/Mayankraj1304?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/View_Projects-38B2AC?style=for-the-badge&logo=github&logoColor=white"
+    alt="View Mayank Raj's projects"
+  />
+</a>
+
+<a href="https://github.com/Mayankraj1304">
+  <img
+    src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Follow Mayank Raj on GitHub"
+  />
+</a>
+
+<br />
+<br />
+
+<sub>Designed and maintained by Mayank Raj</sub>
+
 </div>
