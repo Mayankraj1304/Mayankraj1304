@@ -26,8 +26,6 @@
 
 </div>
 
----
-
 ## About Me
 
 I am a software developer with an interest in building useful, maintainable, and thoughtfully designed applications.
@@ -67,8 +65,6 @@ src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,vite"
 alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Sass, and Vite"
 />
 
-<br /><br />
-
 `React Router` · `EJS`
 
 ---
@@ -80,8 +76,6 @@ src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,flask"
 alt="Node.js, Express.js, MongoDB, MySQL, and Flask"
 />
 
-<br /><br />
-
 `Express Validator` · `WebSockets` · `JWT Authentication` · `REST APIs`
 
 ---
@@ -92,8 +86,6 @@ alt="Node.js, Express.js, MongoDB, MySQL, and Flask"
 src="https://skillicons.dev/icons?i=python,tensorflow,sklearn"
 alt="Python, TensorFlow, and Scikit-learn"
 />
-
-<br /><br />
 
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg"
@@ -120,8 +112,6 @@ height="48"
 alt="Matplotlib"
 />
 
-<br /><br />
-
 `Generative AI` · `Large Language Models` · `LangChain`
 `Prompt Engineering` · `Streamlit`
 
@@ -142,8 +132,6 @@ alt="C, Java, JavaScript, TypeScript, and Python"
 src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,vscode"
 alt="Git, GitHub, Postman, Figma, Vercel, and Visual Studio Code"
 />
-
-<br /><br />
 
 `Render` · `API Testing` · `Version Control` · `Deployment`
 
@@ -217,8 +205,6 @@ My repositories include experiments, learning projects, application prototypes, 
 
 > The language statistics show the languages detected in public repositories. They do not represent complete proficiency or professional experience.
 
----
-
 ## Contribution Streak
 
 <div align="center">
@@ -263,8 +249,6 @@ alt="Mayank Raj's GitHub profile summary"
 width="96%"
 loading="lazy"
 />
-
-<br />
 
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayankraj1304&theme=tokyonight"
