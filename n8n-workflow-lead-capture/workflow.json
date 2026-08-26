@@ -1,0 +1,62 @@
+{
+  "name": "Lead Capture & Notification",
+  "nodes": [
+    {
+      "parameters": {"path": "lead-capture", "httpMethod": "POST", "responseMode": "responseNode"},
+      "id": "webhook",
+      "name": "Lead Webhook",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [0, 0]
+    },
+    {
+      "parameters": {"assignments": {"assignments": [{"id": "name", "name": "name", "value": "={{$json.body.name}}", "type": "string"}, {"id": "email", "name": "email", "value": "={{$json.body.email}}", "type": "string"}, {"id": "company", "name": "company", "value": "={{$json.body.company || ''}}", "type": "string"}, {"id": "message", "name": "message", "value": "={{$json.body.message || ''}}", "type": "string"}]}, "options": {}},
+      "id": "set",
+      "name": "Normalize Lead",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [220, 0]
+    },
+    {
+      "parameters": {"conditions": {"string": [{"value1": "={{$json.email}}", "operation": "contains", "value2": "@"}, {"value1": "={{$json.name}}", "operation": "isNotEmpty"}]}},
+      "id": "if",
+      "name": "Valid Lead?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [440, 0]
+    },
+    {
+      "parameters": {"method": "POST", "url": "https://hooks.slack.com/services/REPLACE/THIS/URL", "sendBody": true, "contentType": "json", "jsonBody": "={{JSON.stringify({text: 'New lead: ' + $json.name + ' (' + $json.email + ') — ' + $json.company})}}", "options": {}},
+      "id": "notify",
+      "name": "Notify Team",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [680, -100]
+    },
+    {
+      "parameters": {"respondWith": "json", "responseBody": "={{JSON.stringify({ok: true, message: 'Lead received'})}}", "options": {}},
+      "id": "response",
+      "name": "Success Response",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.4,
+      "position": [900, -100]
+    },
+    {
+      "parameters": {"respondWith": "json", "responseBody": "={{JSON.stringify({ok: false, message: 'Invalid lead data'})}}", "options": {}},
+      "id": "invalid-response",
+      "name": "Invalid Response",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.4,
+      "position": [680, 100]
+    }
+  ],
+  "connections": {
+    "Lead Webhook": {"main": [[{"node": "Normalize Lead", "type": "main", "index": 0}]]},
+    "Normalize Lead": {"main": [[{"node": "Valid Lead?", "type": "main", "index": 0}]]},
+    "Valid Lead?": {"main": [[{"node": "Notify Team", "type": "main", "index": 0}], [{"node": "Invalid Response", "type": "main", "index": 0}]]},
+    "Notify Team": {"main": [[{"node": "Success Response", "type": "main", "index": 0}]]}
+  },
+  "active": false,
+  "settings": {},
+  "versionId": "lead-capture-v1"
+}
